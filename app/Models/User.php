@@ -62,7 +62,7 @@ class User extends Authenticatable implements FilamentUser, HasMedia, HasName, M
         'email_verified_at' => 'datetime',
     ];
 
-    public const ADMIN_EMAIL = 'fordiquez@store.com';
+    public const ADMIN_EMAIL = 'codeMonkeyWebCoder@store.com';
 
     public function sendEmailVerificationNotification(): void
     {

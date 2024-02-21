@@ -18,8 +18,6 @@
 ### 1. Clone this repository to your local folder
 
 ```
-git clone git@github.com:fordiquez/laravel-store.git
-```
 
 ```
 cd laravel-store
